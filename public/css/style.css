@@ -1,0 +1,88 @@
+.space{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.btn-spacing
+{
+    margin-top:18px;
+
+}
+
+.btn-post
+{
+    padding-right:10px;
+    font-weight: bold;
+}
+.MyFormSearch
+{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.tr{
+    border-bottom: 1px gray solid;
+}
+.space
+{
+    margin-top: 0.5cm;
+    margin-bottom:0px;
+}
+.space-down
+{
+    margin-bottom: 0.5cm;
+}
+.space-up{
+    margin-top: 1.5cm;
+}
+
+.author-content
+{
+    margin-bottom: 5px;
+}
+.author-img
+{
+    border-radius:50% ;
+    width:50px;
+    height:50px;
+    float:left;
+}
+.author-name
+{
+    float:left;
+    margin-left: 0.3cm;
+}
+.author-name h4{
+    margin-bottom:0px;
+    font-weight:bold;
+}
+.author-date
+{
+    font-size:11px;
+    font-style:italic;
+    color:gray;
+}
+.comment-content
+{
+    clear: both;
+    margin-bottom: 50px;
+    font-size:16px;
+    line-height:1.3em;
+    margin-left: 1.7cm;
+}
+.icocomment
+{
+margin-left:15%;
+}
+.info-comment
+{
+    font-size :0.45cm;
+    color:gray;
+}
+.titre
+{
+    font-weight:bold;
+}
+.profile
+{
+    border-radius: 20px;
+    border: 1px solid black;
+}

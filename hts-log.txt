@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Wed, 12 Sep 2018 15:27:37 at https://openclassrooms.com/fr/courses/1631636-simplifiez-vos-developpements-javascript-avec-jquery/1636305-premiers-pas-avec-ajax
+(httrack https://openclassrooms.com/fr/courses/1631636-simplifiez-vos-developpements-javascript-avec-jquery/1636305-premiers-pas-avec-ajax )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 29 links scanned, 28 files written (2669956 bytes overall) [675100 bytes received at 22503 bytes/sec], 2670167 bytes transferred using HTTP compression in 29 files, ratio 24%, 9.6 requests per connection
+(No errors, 0 warnings, 0 messages)
